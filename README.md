@@ -1,10 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Interview Maker
+
+Welcome to the **AI Interview Maker** project! This application is designed to streamline the interview preparation process using AI, making it easier for users to practice and improve their interview skills.
+
+# Demo - 
+ mock-ai-interview-kappa.vercel.app
+## Technologies Used
+
+This project is built with a combination of cutting-edge technologies:
+
+- **Next.js**: A powerful React framework for building fast and scalable web applications.
+- **Drizzle (Beta)**: A modern ORM for interacting with databases in a seamless way.
+- **Clerk**: Provides secure and user-friendly authentication.
+- **Shadcn UI**: A stylish and customizable UI component library for rapid development.
+- **Tailwind CSS**: Utility-first CSS framework for designing beautiful and responsive interfaces.
+- **Gemini API**: Utilized extensively for incorporating AI capabilities into the application, enhancing the interview experience with intelligent features.
+
 
 ## Getting Started
 
-First, run the development server:
+To get started with the project, follow these steps:
 
-```bash
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/ai-interview-maker.git
+   cd ai-interview-maker
+Install the dependencies:
+
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+Run the development server:
+
 npm run dev
 # or
 yarn dev
@@ -12,13 +43,10 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser to see the result. You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project utilizes next/font to automatically optimize and load the Inter font, providing a clean and modern look.
 
 ## Learn More
 
