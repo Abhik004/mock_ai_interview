@@ -2,8 +2,10 @@
 
 Welcome to the **AI Interview Maker** project! This application is designed to streamline the interview preparation process using AI, making it easier for users to practice and improve their interview skills.
 
-# Demo - 
- mock-ai-interview-kappa.vercel.app
+## Demo
+
+Check out the live demo of the project [here](https://mock-ai-interview-kappa.vercel.app).
+
 ## Technologies Used
 
 This project is built with a combination of cutting-edge technologies:
@@ -23,7 +25,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ai-interview-maker.git
+   git clone https://https://github.com/Abhik004/mock_ai_interview
    cd ai-interview-maker
 Install the dependencies:
 
