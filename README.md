@@ -36,6 +36,7 @@ yarn install
 pnpm install
 # or
 bun install
+<br>
 Run the development server:
 
 npm run dev
